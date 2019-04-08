@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>aptech-t1808a</groupId>
-    <artifactId>t1808a2</artifactId>
+    <groupId>Aptech-T1808A</groupId>
+    <artifactId>T1808A</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
